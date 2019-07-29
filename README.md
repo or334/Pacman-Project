@@ -1,0 +1,2 @@
+# Pacman-Project
+The Pacman Project, which I took part in as a practical project in the "Advanced Topics in Software Development" course. This is the familiar Pacman game, written in JavaScript using the framework called Phaser. The point is that there is a question lock that once consumed, the user must answer a question from a variety of areas of technology, and a correct response to the question entitles him to a bonus point.
